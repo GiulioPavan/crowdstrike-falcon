@@ -10,3 +10,4 @@ aidURL = "https://api.crowdstrike.com/devices/queries/devices/v1"
 hostURL = "https://api.crowdstrike.com/devices/entities/devices/v1"
 hostQueryURL = "https://api.crowdstrike.com/devices/queries/devices/v1"
 policyURL = "https://api.crowdstrike.com/policy/entities/sensor-update/v1"
+
